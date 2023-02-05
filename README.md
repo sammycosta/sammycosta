@@ -1,16 +1,19 @@
-### Hi there 👋
+## Olá 🍓
+- 🌱 Estudante de Ciência da Computação na Universidade Federal de Santa Catarina (2021.1)
+- 🔭 Bolsista de desenvolvimento web no Laboratório Bridge (2022.2)
+- 🎨 Hobbys incluem desenhar e ler
 
-<!--
-**sammycosta/sammycosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <table>
+    <td>
+    
+      🍎 No dia-a-dia
+      - Java com Spring e Javascript com React
+      
+      🍏 Outras linguagens utilizadas
+      - Python, C, C++, Typescript
+    </td>
+    <td>
+      <img src="https://64.media.tumblr.com/d2822367d7bd69e06d657c3baeb7e89e/3510e89c463ea2a7-6a/s540x810/dbce2b4a0acd3d9e6fb487360dae8940d20a253a.gif" width="200"/>
+    </td>
+  </table>
