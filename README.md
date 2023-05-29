@@ -1,6 +1,6 @@
 ## Olá 🍓
-- 🌱 Estudante de Ciência da Computação na Universidade Federal de Santa Catarina (2021.1)
-- 🔭 Bolsista de desenvolvimento web no Laboratório Bridge (2022.2)
+- 🌱 Estudante de Ciência da Computação na Universidade Federal de Santa Catarina (2021.1 - Período atual)
+- 🔭 Bolsista de desenvolvimento web no Laboratório Bridge (2022.2 - Período atual)
 - 🎨 Hobbys incluem desenhar e ler
 
 
